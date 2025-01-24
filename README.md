@@ -1,1 +1,4 @@
 # mini_projects
+
+##FLIGHT ROUTE PLANNINER 
+##SUDOKO SOLVER
